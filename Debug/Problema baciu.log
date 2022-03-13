@@ -1,0 +1,9 @@
+﻿  domain.c
+  main.c
+  repository.c
+  service.c
+  tests.c
+  user_interface.c
+  VectorDinamic.c
+  Generating Code...
+  Problema baciu.vcxproj -> C:\Users\Baciu\source\repos\OOP\Problema baciu\Debug\Problema baciu.exe

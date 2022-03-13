@@ -1,0 +1,21 @@
+[2021-03-22 12:19:29] [info] Start Program:
+Path:"D:\\Facultate\\An1 - sem2\\Object oriented programming\\Problema baciu\\Debug\\Problema baciu.exe"
+Arguments:
+Working directory: "D:\\Facultate\\An1 - sem2\\Object oriented programming\\Problema baciu\\"
+Modules: Selected: D:\Facultate\An1 - sem2\Object oriented programming\Problema baciu\Debug\Problema baciu.exe Excluded: 
+Sources: Selected: D:\Facultate\An1 - sem2\Object oriented programming\Problema baciu Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\andre\AppData\Local\Temp\nttawdp1.rvf 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-03-22 12:19:29] [info] Module: D:\Facultate\An1 - sem2\Object oriented programming\Problema baciu\Debug\Problema baciu.exe is selected because it matches selected pattern: D:\Facultate\An1 - sem2\Object oriented programming\Problema baciu\Debug\Problema baciu.exe
+[2021-03-22 12:19:29] [info] ----------------------------------------------------
+[2021-03-22 12:19:29] [info] Coverage binary generated in file: C:\Users\andre\AppData\Local\Temp\nttawdp1.rvf
+[2021-03-22 12:19:29] [info] ----------------------------------------------------
